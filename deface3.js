@@ -12,7 +12,7 @@ overlay.style.fontFamily = 'Acme, sans-serif';
 overlay.style.overflowY = 'auto'; // agar bisa scroll jika konten tinggi
 
 overlay.innerHTML = `
-  
+  <div style="position: absolute; top: 20px; right: 30px; font-size: 24px; color: white; cursor: pointer;" id="close-btn" title="Close"></div>
   <div style="padding-top: 60px;">
     <img src="https://cdn.jsdelivr.net/gh/zaytnav1337/deface-web@main/deface.jpg" 
          style="max-width: 100%; height: 75vh; object-fit: cover;">
@@ -24,8 +24,8 @@ overlay.innerHTML = `
   </div>
 `;
 
-overlay.querySelector('#close-btn').addEventListener('click', () => {
+/* overlay.querySelector('#close-btn').addEventListener('click', () => {
   document.body.removeChild(overlay);
-});
+}); */
 
 document.body.appendChild(overlay);
